@@ -67,6 +67,7 @@ In order for Teams Android Devices to enroll in AOSP Device Management successfu
 
 > [!NOTE]
 > An expired enrollment token prevents devices from completing a successful sign-in and blocks new devices from enrolling.
+> Only one enrollment-profile can be created per Intune tenant with the **For Microsoft Teams devices** option set to **Enabled**.
 
 6. Select **Next**.
 7. Review the profile and then select **Create**.
